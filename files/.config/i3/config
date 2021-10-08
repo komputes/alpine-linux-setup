@@ -192,4 +192,4 @@ bar {
         status_command i3status
 }
 
-exec --no-startup-id /home/ibuetler/.scripts/login-script.sh
+exec --no-startup-id /home/$USER/.scripts/login-script.sh

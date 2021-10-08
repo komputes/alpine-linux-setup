@@ -1,0 +1,2 @@
+YOUR_USER_NAME_HERE ALL=(ALL) ALL
+YOUR_USER_NAME_HERE ALL=(ALL) NOPASSWD: /sbin/poweroff, /sbin/reboot, /usr/sbin/openvpn, /bin/mount, /usr/bin/vmware-user-suid-wrapper

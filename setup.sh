@@ -1,9 +1,9 @@
 #!/bin/ash
 
-echo "========== step1  ================"
+echo "========== Step 1: Setting up Alpine Package Manager (apk)  ================"
 ./step1.sh
-echo "========== step2  ================"
+echo "========== Step 2: Setup and Contiguration  ================"
 ./step2.sh
-echo "========== step3  ================"
+echo "========== Step 3: Enabling Services  ================"
 ./step3.sh
-
+echo "We're all done setting up Alpine Desktop. Type 'reboot' to continue."
